@@ -14,6 +14,6 @@
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/shdsofficial)
-[![Behance](https://img.shields.io/badge/-Behance-090909?style=for-the-badge&logo=telegram&logoColor=#1769FF)](https://www.behance.net/dmitrySHDS)
+[![Behance](https://img.shields.io/badge/-Behance-090909?style=for-the-badge&logo=behance&logoColor=27A0D9)](https://www.behance.net/dmitrySHDS)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=x&logoColor=#000000)](https://twitter.com/shpotads)
 
