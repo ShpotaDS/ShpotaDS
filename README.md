@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm a QA Engineer and Web Designer
+### I'm a QA Engineer, Web Designer and CEO of my personal brand "SHDS"
 
 
 
